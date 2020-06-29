@@ -1,0 +1,44 @@
+data
+├── MedMentions
+│   ├── full
+│   │   ├── custom
+│   │   │   ├── mm_converted.dev.json
+│   │   │   ├── mm_converted.test.json
+│   │   │   ├── mm_converted.train.json
+│   │   │   ├── mm_ner_ent.dev.conll
+│   │   │   ├── mm_ner_ent.test.conll
+│   │   │   └── mm_ner_ent.train.conll
+│   │   ├── data
+│   │   │   ├── corpus_pubtator_pmids_all.txt
+│   │   │   ├── corpus_pubtator_pmids_dev.txt
+│   │   │   ├── corpus_pubtator_pmids_test.txt
+│   │   │   ├── corpus_pubtator_pmids_trng.txt
+│   │   │   └── corpus_pubtator.txt
+│   │   ├── ReadMe.md
+│   │   └── stats
+│   │       └── TypeMentionStats.xlsx
+│   ├── README.md
+│   └── st21pv
+│       ├── custom
+│       │   ├── conll2003
+│       │   │   ├── dev.txt
+│       │   │   ├── test.txt
+│       │   │   └── train.txt
+│       │   ├── mm_converted.dev.json
+│       │   ├── mm_converted.test.json
+│       │   ├── mm_converted.train.json
+│       │   ├── mm_ner_ent.dev.conll
+│       │   ├── mm_ner_ent.test.conll
+│       │   └── mm_ner_ent.train.conll
+│       ├── data
+│       │   ├── corpus_pubtator_pmids_all.txt
+│       │   ├── corpus_pubtator_pmids_dev.txt
+│       │   ├── corpus_pubtator_pmids_test.txt
+│       │   ├── corpus_pubtator_pmids_trng.txt
+│       │   └── corpus_pubtator.txt
+│       └── ReadMe.md
+└── UMLS
+    ├── umls.2017AA.active.full.json
+    └── umls.2017AA.active.st21pv.json
+
+10 directories, 31 files

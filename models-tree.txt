@@ -1,0 +1,44 @@
+models
+├── BERT
+│   └── scibert_scivocab_uncased
+│       ├── bert_config.json
+│       ├── config.json
+│       ├── pytorch_model.bin
+│       ├── vocab.txt
+│       └── weights.tar.gz
+├── Classifiers
+│   ├── softmax.cui.h5
+│   ├── softmax.cui.map
+│   ├── softmax.sty.h5
+│   └── softmax.sty.map
+├── ContextualNER
+│   └── mm_st21pv_SCIBERT_uncased
+│       ├── best.th
+│       ├── config.json
+│       ├── metrics.json
+│       ├── stderr.log
+│       ├── stdout.log
+│       └── vocabulary
+│           ├── labels.txt
+│           ├── non_padded_namespaces.txt
+│           └── token_characters.txt
+├── ExactMatchNER
+│   └── umls.2017AA.active.st21pv.nerfed_nlp_and_matcher.max3.p
+├── SimString
+│   ├── umls.2017AA.active.full.aliases.3gram.5toks.db
+│   ├── umls.2017AA.active.full.aliases.5toks.map
+│   ├── umls.2017AA.active.st21pv.aliases.3gram.5toks.db
+│   └── umls.2017AA.active.st21pv.aliases.5toks.map
+├── Validators
+│   ├── mm_st21pv.lr_clf_cui.dev.joblib
+│   ├── mm_st21pv.lr_clf_cui.train2.joblib
+│   ├── mm_st21pv.lr_clf_cui.train.joblib
+│   ├── mm_st21pv.lr_clf_sty.dev.joblib
+│   ├── mm_st21pv.lr_clf_sty.train2.joblib
+│   └── mm_st21pv.lr_clf_sty.train.joblib
+└── VSMs
+    ├── mm_st21pv.cuis.scibert_scivocab_uncased.vecs
+    ├── mm_st21pv.sts_anns.scibert_scivocab_uncased.vecs
+    └── mm_st21pv.sts_cpts.scibert_scivocab_uncased.vecs
+
+10 directories, 31 files
