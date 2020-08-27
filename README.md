@@ -12,6 +12,8 @@ After cloning this repository and moving to the root folder, follow the steps be
 
 ### 1. Download and extract data:
 
+UPDATE - Check the discussion here first: https://github.com/danlou/MedLinker/issues/2
+
 This archive contains some data adapted from UMLS, please ensure you have the required [license](https://uts.nlm.nih.gov/license.html) to use it before downloading.
 Download [data.zip](TBD) (153MB) from Google Drive, and then:
 
