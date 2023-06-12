@@ -16,4 +16,4 @@ tensorflow-estimator==1.14.0
 torch==1.2.0
 torchcontrib==0.0.2
 torchvision==0.4.0
-transformers==2.0.0
+transformers==4.30.0
